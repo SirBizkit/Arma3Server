@@ -34,8 +34,8 @@ class DifficultyPresets
 	{
 		skillFriendly=1;
 		skillEnemy=1;
-		precisionFriendly=0.30000001;
-		precisionEnemy=0.30000001;
+		precisionFriendly=0.15000001;
+		precisionEnemy=0.15000001;
 	};
 };
 singleVoice=0;
