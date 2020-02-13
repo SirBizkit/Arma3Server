@@ -1,10 +1,10 @@
 name = "VCOMAI";
-picture = "\VcomAI\VcomAILLogo.paa";
+picture = "VcomAILLogo.paa";
 actionName = "Website";
 action = "https://forums.bohemia.net/forums/topic/216611-release-vcom-ai-3-dangerous-ai/";
 description = "Enhancing your ArmA 3 experience to the next level.";
-logo = "\VcomAI\VcomAILogo.paa";
-logoOver = "\VcomAI\VcomAILLogo.paa";
+logo = "VcomAILogo.paa";
+logoOver = "VcomAILLogo.paa";
 tooltip = "Vcom";
 tooltipOwned = "Genesis92x";
 overview = "Bringing the AI back into the fight.";
